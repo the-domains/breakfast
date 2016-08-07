@@ -1,0 +1,14 @@
+layout_spectrum: 0.14539583050645888
+typography_spectrum: 0.5103316009044647
+color:
+  brandStrength: 0.29350298503413796
+  lightness: 0.9960311530157924
+  saturation: 0.27546705887652934
+  rhythmicContrast: 0.9425740321166813
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Breakfast
